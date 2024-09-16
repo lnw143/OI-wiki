@@ -10,6 +10,8 @@ yes
 
 again
 
+whywrong
+
 ## 二分法
 
 ### 定义
